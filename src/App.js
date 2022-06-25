@@ -2,7 +2,7 @@ import { Route, Routes } from 'react-router-dom';
 import './App.css';
 import Blogs from './Pages/Blogs/Blogs';
 import HomePage from './Pages/HomePage/HomePage';
-import Services from './Pages/HomePage/Services/Services';
+import Services from './Pages/Services/Services';
 import Footer from './Pages/Shared/Footer';
 import Header from './Pages/Shared/Header';
 import PageNotFound from './Pages/Shared/PageNotFound';
