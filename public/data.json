@@ -1,14 +1,11 @@
 [
     {
         "id": "1",
-        "img" : ""
-    },
-    {
-        "id": "2",
-        "img" : ""
-    },
-    {
-        "id": "3",
-        "img" : ""
+        "name" : "Kimberly R Morselar",
+        "pic" : "http://tricky-photoshop.com/wp-content/uploads/2017/08/6.jpg",
+        "post" : "In this 5 day class we will explore artist monet, matisse, Van Gogh, among others and then recreate paintings using crayon and watercolor. Students will have fun learning about the artists & creating their own art inspired by their work.",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/640px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        "img2" : "https://us.123rf.com/450wm/prawny/prawny2105/prawny210500030/169052374-a-fun-artistic-digital-image-of-london-bridge-created-in-the-style-of-van-gogh-s-starry-night-painti.jpg?ver=6",
+        "img3" : "https://images.instapainting.com/606fab3e87456fac2a8b4571_w0.jpg"
     }
 ]
